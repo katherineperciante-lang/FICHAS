@@ -1,0 +1,17 @@
+.contenedor{
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+}
+
+.titulo{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  color: brown;
+}
+
+.peliculas{
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}

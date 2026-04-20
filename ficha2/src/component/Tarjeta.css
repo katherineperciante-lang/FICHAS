@@ -1,0 +1,14 @@
+.tarjeta{
+    width: 200px;
+    border: 1px;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: mediumorchid;
+   text-align: center;
+   justify-content: center;
+}
+
+.letras{
+    color: black;
+}
